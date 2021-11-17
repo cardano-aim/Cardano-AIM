@@ -1,0 +1,39 @@
+{
+  "info": {
+    "url_png_icon_64x64": "https://cardanoaim.io/metadata/aim-64x64.png",
+    "url_png_logo": "https://cardanoaim.io/metadata/aim.png",
+    "location": "",
+    "social": {
+      "twitter_handle": "AimCardano",
+      "telegram_handle": "CardanoAIMpool",
+      "facebook_handle": "",
+      "youtube_handle": "UCF-LWrlFqzA_eoNjSsyl8-w",
+      "twitch_handle": "",
+      "discord_handle": "",
+      "github_handle": "Project-Catalyst"
+    },
+    "company": {
+      "name": "",
+      "addr": "",
+      "city": "",
+      "country": "",
+      "company_id": "",
+      "vat_id": ""
+    },
+    "about": {
+      "me": "",
+      "server": "",
+      "company": ""
+    },
+    "rss": ""
+  },
+  "telegram-admin-handle": [
+    ""
+  ],
+  "my-pool-ids": [
+    "b61f05ec1e907ab9b069eaec6c664056c16f56cab59076109c66d2ae"
+  ],
+  "when-satured-then-recommend": [
+    "b61f05ec1e907ab9b069eaec6c664056c16f56cab59076109c66d2ae"
+  ]
+}
