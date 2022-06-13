@@ -265,6 +265,9 @@ b, strong {
   transition: all 0.4s ease;
   position: relative;
 }
+.dark-mode .navbar-toggler .navbar-toggler-icon {
+  background: rgba(255, 255, 255, 0.8);
+}
 
 .copyright-text {
   font-size: 16px;
@@ -529,6 +532,10 @@ b, strong {
     background: #ffffff;
     text-align: center;
     padding-bottom: 20px;
+  }
+
+  .dark-mode .navbar-collapse {
+    background: black;
   }
 
   .navbar-expand-sm .navbar-nav .nav-link {
