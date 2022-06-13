@@ -310,18 +310,22 @@ b, strong {
 }
 .dark-mode .small-text {
   background: #0d0c15;
-  color: #ffffff;
+  color: #c0c0c7;
 }
 .dark-mode .feature-card .uil,
 .dark-mode .navbar-light .navbar-brand,
 .dark-mode h1, .dark-mode h2, .dark-mode h3, .dark-mode h4, .dark-mode h5, .dark-mode h6,
 .dark-mode .color-mode {
-  color: #ffffff;
+  color: #dbdadd;
 }
 .dark-mode .owl-carousel .owl-nav button.owl-next,
 .dark-mode .owl-carousel .owl-nav button.owl-prev,
 .dark-mode .owl-carousel button.owl-dot {
-  color: #ffffff;
+  color: #8d8ba0;
+}
+
+.dark-mode .about-text p {
+  color: #969595; 
 }
 
 .timeline-wrapper {
@@ -370,6 +374,15 @@ b, strong {
   display: inline-block;
   vertical-align: middle;
   margin-left: 15px;
+}
+.dark-mode .timeline-info small {
+  color: #c4c4c4;
+}
+.dark-mode .timeline-info small {
+  color: #a7a7a7;
+}
+.dark-mode .timeline-info p {
+  color: #969595;
 }
 
 .owl-carousel .owl-nav span {
