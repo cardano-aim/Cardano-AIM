@@ -6,6 +6,16 @@
     $('.color-mode').click(function(){
         $('.color-mode-icon').toggleClass('active')
         $('body').toggleClass('dark-mode')
+        // Adjust logo to dark/light model
+        if ($('body').hasClass("dark-mode")) {
+          console.log('HAS DARK-MODE')
+          console.log( $('#logo'))
+          $('#logo').attr({"src": "./images/logo/Cardano_Aim_-_White.png"})
+        } else {
+          console.log('NOT-HAS DARK-MODE')
+          console.log( $('#logo'))
+          $('#logo').attr({"src": "./images/logo/cardanoaim_logo.png"})
+        }
     })
 
     // HEADER
